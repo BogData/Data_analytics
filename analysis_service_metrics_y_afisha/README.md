@@ -58,8 +58,8 @@ import warnings
 ## Для просмотра проекта на сайте GitHub в виде .md файла перейдите по ссылке
 [analysis_service_metrics_y_afisha.md](https://github.com/BogData/Data_analytics/blob/main/analysis_service_metrics_y_afisha/analysis_service_metrics_y_afisha.md)
 
-## Для просмотра проекта на сайте nbviewer.jupyter.org  перейдите по ссылке
+## Для просмотра проекта через nbviewer перейдите по ссылке
 [nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/BogData/Data_analytics/blob/main/analysis_service_metrics_y_afisha/analysis_service_metrics_y_afisha.ipynb)
 
-## Для скачивания тетрадки Notebook перейдите к файлу
+## Для скачивания RАW кода тетрадки Notebook (т.к. GitHub не отображает визуализацию/графики файлов .ipynb) перейдите к файлу на GitHub по ссылке
 [analysis_service_metrics_y_afisha.ipynb](https://github.com/BogData/Data_analytics/blob/main/analysis_service_metrics_y_afisha/analysis_service_metrics_y_afisha.ipynb)
