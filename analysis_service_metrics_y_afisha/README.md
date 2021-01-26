@@ -55,5 +55,8 @@ import warnings
         [2.3.4. Анализ заказов пользователей в разрезе устройств и платформ](#step_2.3.4)  
 [Общие выводы по исследованию](#step_fin)
 
-## Для просмотра проекта откройте файл
-[la;a;a;;](#step1)
+## Для просмотра проекта на сайте GitHub откройте файл
+[analysis_service_metrics_y_afisha.md](https://github.com/BogData/Data_analytics/blob/main/analysis_service_metrics_y_afisha/analysis_service_metrics_y_afisha.md)
+
+## Для скачивания тетрадки Notebook перейдите к файлу
+[__](#step3)
