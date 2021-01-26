@@ -59,4 +59,4 @@ import warnings
 [analysis_service_metrics_y_afisha.md](https://github.com/BogData/Data_analytics/blob/main/analysis_service_metrics_y_afisha/analysis_service_metrics_y_afisha.md)
 
 ## Для скачивания тетрадки Notebook перейдите к файлу
-[__](#step3)
+[analysis_service_metrics_y_afisha.ipynb](https://github.com/BogData/Data_analytics/blob/main/analysis_service_metrics_y_afisha/analysis_service_metrics_y_afisha.ipynb)
