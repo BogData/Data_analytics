@@ -55,8 +55,11 @@ import warnings
         [2.3.4. Анализ заказов пользователей в разрезе устройств и платформ](#step_2.3.4)  
 [Общие выводы по исследованию](#step_fin)
 
-## Для просмотра проекта на сайте GitHub откройте файл
+## Для просмотра проекта на сайте GitHub в виде .md файла перейдите по ссылке
 [analysis_service_metrics_y_afisha.md](https://github.com/BogData/Data_analytics/blob/main/analysis_service_metrics_y_afisha/analysis_service_metrics_y_afisha.md)
+
+## Для просмотра проекта на сайте nbviewer.jupyter.org  перейдите по ссылке
+[nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/BogData/Data_analytics/blob/main/analysis_service_metrics_y_afisha/analysis_service_metrics_y_afisha.ipynb)
 
 ## Для скачивания тетрадки Notebook перейдите к файлу
 [analysis_service_metrics_y_afisha.ipynb](https://github.com/BogData/Data_analytics/blob/main/analysis_service_metrics_y_afisha/analysis_service_metrics_y_afisha.ipynb)
