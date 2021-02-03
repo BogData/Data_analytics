@@ -20,8 +20,8 @@ pandas, numpy, matplotlib.pyplot, seaborn, warnings
 * Показатели новых когорт хуже, чем у старых когорт.
 * Требуется отдельное исследование причин очень низкой возвращаемости клиентов и снижения показателей новых когорт (в компании не наблюдается эффекта кумулятивного роста клиентской базы активных/покупающих клиентов, в связи с чем выручка формируется за счет новых покупателей).
 
-## Для просмотра проекта через `nbviewer` (т.к. GitHub не отображает визуализацию/графики файлов .ipynb) перейдите по ссылке ниже (откройте в новом окне)
+### Для просмотра проекта через `nbviewer` (т.к. GitHub не отображает визуализацию/графики файлов .ipynb) перейдите по ссылке ниже (откройте в новом окне)
 [nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/BogData/Data_analytics/blob/main/analysis_service_metrics_y_afisha/analysis_service_metrics_y_afisha.ipynb)
 
-## Для скачивания RАW кода тетрадки Notebook перейдите к файлу на GitHub по ссылке ниже
+### Для скачивания RАW кода тетрадки Notebook перейдите к файлу на GitHub по ссылке ниже
 [analysis_service_metrics_y_afisha.ipynb](https://github.com/BogData/Data_analytics/blob/main/analysis_service_metrics_y_afisha/analysis_service_metrics_y_afisha.ipynb)
