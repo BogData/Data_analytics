@@ -6,11 +6,7 @@
 
 ## Используемые библиотеки Python
 ```python
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import warnings
+pandas, numpy, matplotlib.pyplot, seaborn, warnings
 ```
 ## Анализируемые метрики  
 Продуктовые - DAU, WAU, MAU, количество заходов пользователей, ASL, Retention Rate.  
